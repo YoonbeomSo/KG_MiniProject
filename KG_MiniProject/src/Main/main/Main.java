@@ -28,6 +28,7 @@ public class Main extends Application{
 		LoginController loginController = controller.getLoginController();
 		loginController.setmainForm(mainForm);
 		controller.setLogOut(new LogOut());
+		
 
 		Scene scene = new Scene(mainForm);
 		
