@@ -1,6 +1,6 @@
 #헬스장 운영 관리 프로그램 개발
 
-JAVAFX를 활용한 ToyTeamProject(헬스장 운영 관리 프로글램 개발) 했습니다.<br>
+JAVAFX를 활용한 ToyTeamProject(헬스장 운영 관리 프로그램)를 개발했습니다.<br>
 
 언어 : Java8<br>
 DataBase : Oralce DataBase 11g ExpressEdition 11.2<br>
